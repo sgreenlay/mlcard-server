@@ -1,0 +1,11 @@
+{
+  "name": "mlcard-web",
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@saleae/ffi": "^3.0.2"
+  }
+}
